@@ -104,7 +104,7 @@ st.markdown('<div class="subtitle">Upload → Extract → Summarize with AI</div
 # ----------------------------
 # API KEY
 # ----------------------------
-groq_client = Groq(api_key="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")
+groq_client = Groq(api_key="Use you api key")
 
 
 # ----------------------------
